@@ -96,6 +96,7 @@ Execution time doubles with each additional input element (e.g., recursive brute
 Execution time grows factorially with input size, often seen in permutation-based algorithms.
 
 <img width="850" height="250" alt="image" src="https://github.com/user-attachments/assets/aed3424c-9f88-483c-ba6e-750bc2f79e2e" />
+
 # Conclusion:
 
 Big O Notation is a fundamental concept in algorithm analysis that describes how an algorithm’s performance scales with the input size.
